@@ -16,6 +16,6 @@
 	<dependencies>
 	</dependencies>
     <build>
-        <finalName>apka-demo</finalName>
+        <finalName>apka-demo-pg</finalName>
     </build>
 </project>
