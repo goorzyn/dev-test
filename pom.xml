@@ -16,6 +16,6 @@
 	<dependencies>
 	</dependencies>
     <build>
-        <finalName>apka-user-1</finalName>
+        <finalName>apka</finalName>
     </build>
 </project>
